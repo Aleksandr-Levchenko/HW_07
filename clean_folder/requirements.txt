@@ -1,0 +1,6 @@
+build==0.10.0
+clean_folder @ file:///D:/Git/HW_07/clean_folder
+colorama==0.4.6
+packaging==23.1
+pyproject_hooks==1.0.0
+tomli==2.0.1
